@@ -1,0 +1,26 @@
+{
+  "directive": {
+      "header": {
+          "namespace": "Alexa.ColorController",
+          "name": "SetColor",
+          "payloadVersion": "3",
+          "messageId": "e4500f94-f187-42d0-ad85-0bedf96f1bff",
+          "correlationToken": "AAAAAAAAAAAWuPx7hbXpR8GQ6taNIsxBEAIAAAAAAAByekXIa30SUSuEEitTwWpGQI3jV2x28pU5PfC0jn0RTEUP4SJsc+/rhlry3avEQjqZj9o2pNW4qBblEew5mz1CmXGKnYufMhW4Vi8dPU6XEhoWuH2nFXLh0zkKUCD71U5cPUCaiB6ik9Wu8oQbytIFNf+AmUilHG9ozPmZ47asyw6EaIhMZ593AlN8UEcu4WFzbH2Z3yYSQESi1pJ+pv9cNMtG6+9XVJODcWEJyj/XHvyqXxJqPiEa6LMYdQkfPmSHNLYqXLPEQtqS0pWOfOc5/1xBcMb+4JjPvSXUUMM4TZc3OlkFQnY6lVFaPwiCHlUfwjbXNWqXxdtdHQwMV//J9eMN0nZiunCvvn+FNfQW+Zxbq9HXUVvJlDW8zeqyWZoxbqLoc2isn//HIi3RRAiuHOfcs0CrsEqmrIctiqq8q77mUNNUWQ3H5vh5CWHlMJDTENX4gsMQBMeM7jKwSYwvW7gAtVE/0/EmQwd6/Myo8IUSFSxaTeO9lo7FmBHC3ARFyV5MajE8b9gFDMMYA4Pff+cJDiK+XYL12PDEUWwFgX25JA/0sBb/paNoADdZEZZSzgp4VdBiWFP2bJMpWVIGHBIwSa+zB3RAcnmklHMA+tpP87NbuZ+Nhu0DJc2Ogoct9lDHP0EZx3ebOyxsPEdK6AGTdLVrehwjv3Cb5fTiagSEUkEywP8MYDZoGCJkKr0="
+      },
+      "endpoint": {
+          "scope": {
+              "type": "BearerToken",
+              "token": "Atza|IwEBIGuBzpOR3ngkmJdX87DJVcVxw1F1zyTCubAdroXM-pl9U8N7V_kATtbi1Xc4Q_oCs3grVggEoLPqrqpKg6wvgTGjBzZQ4DmQN0pJQYCWsGe9jQe4wxR2J0zjCTVXK87ljBLFkk2oxrr6VJzX9fVY4AUWJq9jmYXPaPRB68StivVEaHFwvfDcmZXVkq0ODD3W3m10xaOHaXEW503MLNx1Gu46dcg_xh4hQsY5CVLxZnr2hBAGLYxUfAnBpiG8bzHEUlAVerkwLBGhmqSDl74AEhNoo6UuTahYtaZY8N3VVImjq92eJ95KLsQQS184ltdpKzipz8j57ItSoBNwMp13Wrd6xVd0BI1Bayj7nVq6ga1J7i4rCg_7jMYI0aW-cxxalpEWbJuMZg2n9srvJFLtY7M9PJ0vwA50-3I9noWeYQUlkJzOCd_ED8T9-vfuTywYGh0N4467z4wyQR2N84Tqbrw4E2gtEdvo0MqtbO1GUU2RFkGiqTH8XWNpiEy5RVq_pDY-MeqbZx8aIqfrR-Yqjz19_70dE_ftYqk_mEGWtJ5fiA"
+          },
+          "endpointId": "ledstrip-01",
+          "cookie": {}
+      },
+      "payload": {
+          "color": {
+              "hue": 230,
+              "saturation": 1,
+              "brightness": 1
+          }
+      }
+  }
+}

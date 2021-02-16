@@ -1,0 +1,13 @@
+{
+  "name": "led-strip-function",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "repository": "https://github.com/awslabs/aws-sam-cli/tree/develop/samcli/local/init/templates/cookiecutter-aws-sam-hello-nodejs",
+  "author": "ETblaky",
+  "license": "MIT",
+  "dependencies": {
+    "aws-iot-device-sdk": "^2.2.6",
+    "enum": "^3.0.4"
+  }
+}

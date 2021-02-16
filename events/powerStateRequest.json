@@ -1,0 +1,20 @@
+{
+    "directive": {
+      "header": {
+        "namespace": "Alexa.PowerController",
+        "name": "TurnOFF",
+        "payloadVersion": "3",
+        "messageId": "4601aa85-d1b1-4818-8ad1-0f65aa9e228b",
+        "correlationToken": "AAAAAAAAAAAfD3SPV/DcM2E2D4p8dohdDAIAAAAAAAAKDUFnJFGPP34atuLXrt4DlakpiZlMSRew9MAIvNqNmK1E6l90r2gjdnv05f0tVTiZwDUTfQ9uOwUO/Zm7hov+NyDkBWSRb6iV/fABmZflDvSkiG/XmnrS0Yr0izTWx2CfDzdufHI9vdkVfDgfRxg2/dmtO3G2JeKHeA34OmzOIHd/3vkOjiw0rvHvWNZX2aEVx3TRa143KinhVJG6Ns5udIiYrb9FJ+t36i0YoQDfLnuo7voBjdH/Jrdy7Ggc+rF4RR6dP8Tbsk7UID5eiKQtfD5KLiGSp+MjWVYseg436rZEU8zezO/ATYb22EH8fH/Mkqwi5bR29PC2RBPA7EBjibqELF34KCvy44cDcghi8Uj4zbRZIwQyR5bO2X4+YuP6EuhAEyp16qcxMv61+8AdRaxfzZ7WJhRxnjYwrvRM7+Y8iIYTv9P/yhPQ32pKlDsiuTc/g6AQwMrUfdlC/IgnzkSry8UaU5pMMYvoGLzTXSCEWT6hW+vRc5LvH/TEKQb2QD4/H7rym0cbVHyhoYmh/UNPzCLuVwiv8cbe0qiyTIhoFzKN8ar/sN5MMMyJT+QX53hZ9ZApNafPxtDhkO5pl92P8wOj4+udGOEIN+ggmlm9X4C7E8zPaed6wCNBFQ+fxydYrXVRr1UafSR6IBiZPoaqTYIgGIjOPh7D8BJ9krfeCuQDLYgpHhoDNw=="
+      },
+      "endpoint": {
+        "scope": {
+          "type": "BearerToken",
+          "token": "Atza|IwEBICcpGnDzdl0k_m3hdu9aqAtFTDPZsRMtlcFkUk3nG_K1qcZZrx60Bht3KQtq7WZnAWi7oUfmuPejxEXyG_yh7a_Dyq0tljzerBDx9qX8b33zZiO-_sDwcduIXn6YPbTFQxpKxCWoANXCSbSAacrrDNWFLqwGwj2VXIUFfKNqkqgY_VVTStqbI9NEC4MSp1U53tZQiGMLZ6YPRH0bzk1v8PpKMpHp2YUdqf7PnWEeiTz8J4cYTQ5JeddYFuf4i2HiZqshKPCeOooh7mYKRR40_YRrvN-KUHQcFz9DWXAgSBnDK75ONwFzw4HcIEFgy5SjeIEUrH6-U0_3GcVZnOmhtTvxmfz1sfM-xXTCRSox1Rl3xlnaVBQQL3tmAixkrnK5aN-1mKf7hIZVHL9nWjcesxtFzOyLsavMlXy43mDHcu3yPB4_x4yOX55Sna3OtL_1mU0ZmRT6T8GU0NAsgSCbPyi0UB-K6x5OZ17NcXCzNZrkqr4cuZQTLMIXd0Mv-l7riQ9aW8tzaGFEMDWPyXSfNNiA"
+        },
+        "endpointId": "ledstrip-01",
+        "cookie": {}
+      },
+      "payload": {}
+    }
+  }
